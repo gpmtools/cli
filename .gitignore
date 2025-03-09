@@ -6,3 +6,6 @@ models/*.json
 types/base/*.json
 .aider*
 tmp
+
+# Added by goreleaser init:
+dist/
